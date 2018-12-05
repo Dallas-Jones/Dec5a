@@ -1,0 +1,291 @@
+h1{
+  text-align: center;
+  background-color: #BFBFBF;
+  margin-left: 40%;
+  margin-right: 40%;
+  font: bold 19px/34px Century Gothic;
+}
+h2{
+  text-align: center;
+  background-color: #BFBFBF;
+  margin-left: 40%;
+  margin-right: 40%;
+  font: bold 19px/34px Century Gothic;
+}
+h3{
+  text-align: center;
+  background-color: #BFBFBF;
+  margin-left: 40%;
+  margin-right: 40%;
+  font: bold 19px/34px Century Gothic;
+}
+h4{
+  text-align: center;
+  background-color: #BFBFBF;
+  margin-left: 40%;
+  margin-right: 40%;
+  font: bold 19px/34px Century Gothic;
+}
+h5{
+  text-align: center;
+  background-color: #BFBFBF;
+  margin-left: 40%;
+  margin-right: 40%;
+  font: bold 19px/34px Century Gothic;
+}
+h6{
+  text-align: center;
+  background-color: #BFBFBF;
+  margin-left: 40%;
+  margin-right: 40%;
+  font: bold 19px/34px Century Gothic;
+}
+p{
+  text-align: center;
+  font: bold 19px/34px Century Gothic;
+}
+img {
+    display: table-caption ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.responsive {
+    max-width: 80%;
+    max-height: 80%;
+}
+.space{
+    max-width: 80%;
+    max-height: 80%;
+    padding-bottom: 11px;
+    margin-bottom: 10px;
+}
+.responsive111 {
+    max-width: 100%;
+    max-height: 80%;
+}
+.ul2{
+    list-style-type: none;
+    margin: 2%;
+    padding: 2%;
+    overflow: hidden;
+    background-color:black;
+    font: bold 19px/34px Century Gothic;
+}
+.li2{
+  display:inline;
+  font: bold 19px/34px Century Gothic;
+  }
+li a2{
+    
+}
+ul {
+    overflow: hidden;
+    background-color: #111;
+    list-style-type: none;
+    text-align: center;
+    margin: 5%;
+    padding: 5%;
+    margin-top: 5%;
+    vertical-align:middle;
+    font-size: 30px;
+}
+li {
+/*
+    float: left;
+    clear: left;
+*/
+    margin-left: 6.75%;
+    margin-right: 5px;
+}
+li a {
+    color: white;
+    font-size: 30px;
+/*    text-align: center;*/
+}
+/* Change the link color to #696969(black) on hover */
+li a:hover {
+    background-color: #A52A2A;
+   
+}
+.tracks { 
+  padding-top: 10px;
+}
+
+ 
+body 
+  {background-color: white;}
+ 
+img {
+    display: ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 2.0%;
+}
+
+
+nav {
+/*  text-align:center;*/
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 100px;
+    overflow: hidden;
+    background-color: #111;
+}
+li {
+    float: left;
+}
+li a {
+    display: ;
+    color: white;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+}
+/* Change the link color to #696969(black) on hover */
+li a:hover {
+    background-color: #A52A2A;
+}
+  h1,h2,div,h3,h4,p,div {
+  text-align:center;
+  font-size: 20px;
+}
+img {
+    display: ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+
+nav {
+/*  text-align:center;*/
+}
+ul {
+    list-style-type: none;
+    padding-left: 20%;
+    padding-right: 20;
+    overflow: hidden;
+    background-color: #111;
+}
+li {
+    float: left;
+}
+li a {
+    display: ;
+    color: white;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+}
+/* Change the link color to #696969(black) on hover */
+li a:hover {
+    background-color: #A52A2A;
+}
+video{
+    max-width: 80%;
+    max-height: 80%;
+    padding: 1%;
+    margin-bottom: 1%;
+    }
+.width{
+    padding-left: 25%;
+    max-width: 50%;
+    text-align: center;
+    font: bold 19px/34px Century Gothic;
+}
+.left{
+    text-align: left;
+    padding-left: 25%;
+    max-width: 50%;
+    font: bold 19px/34px Century Gothic;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background-color: #55ACEE;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-rss {
+  background: #ff6600;
+  color: white;
+}
+nav {
+/*  text-align:center;*/
+}
+ul {
+    list-style-type: none;
+    padding-left: 20%;
+    padding-right: 20&
+    overflow: hidden;
+    background-color: #111;
+}
+li {
+    float: left;
+}
+li a {
+    display: ;
+    color: white;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+}
+/* Change the link color to #696969(black) on hover */
+li a:hover {
+    background-color: #A52A2A;
+}
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- Add font awesome icons -->
+<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+...
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+/* Set a specific color for each brand */
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
